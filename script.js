@@ -1,0 +1,1 @@
+// JS para lógica del acertijo y seguimiento
